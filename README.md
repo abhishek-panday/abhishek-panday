@@ -1,19 +1,20 @@
-# Hey there! I'm Abhishek.
+# Hey there!👋🏻 I'm Abhishek.
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning "Data analytics"
-- 🤔 &nbsp; Exploring my potential
-- 🎓 &nbsp; Bachelor in commerce (B.com) Mentee in Data analytics
-- 💼 &nbsp; Creating Interactive and Visually apealling Dashboard/Reports
-- 🌱 &nbsp; Enthusiast of Sports and E-sports.
-- ✍️ &nbsp; Really enjoy Interating with people, watching quality content (Refresh button = SPORTS........)
-- ☕ &nbsp; Would have been chef if not Data analyst 
+- 🙋‍♂ &nbsp; People call me Abhishek Pandey (usually "Pandey"  only 🤭)
+- 🏡 &nbsp; I have been living in Ambala, Haryana for a long time but my roots are from U.P.
+- 🔭 &nbsp; Exploring my potential
+- 💼 &nbsp; Probably would be creating Interactive and Visually apealling Dashboard/Reports
+- 👀 &nbsp; I love to interact to people and try to have a good bond , my refresh button is to play sports and I am an ex-esports player...
+- 🤔 &nbsp; Would have been chef if not Data analyst
+- 🫂 &nbsp; I would really love to connect with you at [Abhishek Pandey](https://www.linkedin.com/in/abhishek-pandey1322)
+
 
 <h3>🛠 Tech Skills</h3>
 
 - 💻 &nbsp; Python 
-- 🛢 &nbsp; MySQL 
+- 🛢  &nbsp; MySQL 
 - 🔧 &nbsp; Visual Studio code | Excel | Power BI | Tableau 
 
 <br>
