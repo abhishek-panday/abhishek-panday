@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! I'm Abhishek.
 
-<!--
-**abhishek-panday/abhishek-panday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🔭 &nbsp; I’m currently learning "Data analytics"
+- 🤔 &nbsp; Exploring my potential
+- 🎓 &nbsp; Bachelor in commerce (B.com) Mentee in Data analytics
+- 💼 &nbsp; Creating Interactive and Visually apealling Dashboard/Reports
+- 🌱 &nbsp; Enthusiast of Sports and E-sports.
+- ✍️ &nbsp; Really enjoy Interating with people, watching quality content (Refresh button = SPORTS........)
+- ☕ &nbsp; Would have been chef if not Data analyst 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Skills</h3>
+
+- 💻 &nbsp; Python 
+- 🛢 &nbsp; MySQL 
+- 🔧 &nbsp; Visual Studio code | Excel | Power BI | Tableau 
+
+<br>
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+
+⭐️ From [Abhishek](https://github.com/abhishek-panday)
